@@ -173,7 +173,7 @@
 /* ======================== Clerk Override */
 .cl-avatarBox {
   width: 36px;
-  height: 36px;
+  height: 36px; 
 }
 
 .cl-userButtonTrigger {
@@ -206,7 +206,7 @@
 
 .cl-userButtonPopoverMain,
 .cl-userButtonPopoverFooter {
-  background: #0b1527;
+  background: #000000;
 }
 
 /* ======================== Liveblocks Override */
