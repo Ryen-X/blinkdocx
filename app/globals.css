@@ -184,7 +184,7 @@
 .cl-signIn-start,
 .cl-signUp-start,
 .cl-footer {
-  background: #060d18;
+  background: #000910;
   box-shadow: none;
   padding: 20px;
 }
@@ -192,12 +192,12 @@
 .cl-socialButtonsBlockButton,
 .cl-socialButtonsBlockButton:hover {
   height: 40px;
-  background-color: #3371ff;
+  background-color: #1d1d1d;
   color: #fff;
 }
 
 .cl-internal-2gzuzc {
-  filter: brightness(1000%);
+  filter: none !important;
 }
 
 .cl-logoBox {
